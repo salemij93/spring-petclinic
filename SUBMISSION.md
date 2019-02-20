@@ -1,3 +1,21 @@
-# GitHub Account ![Fork](https://github.com/salemij93/spring-petclinic/blob/master/github_account.png)
+## 5 pts Your Github account showing that is has been forked from the depaulcdm/springpetclinic repository.
 
-# Travis CI [![Build Status](https://travis-ci.com/salemij93/spring-petclinic.svg?branch=master)](https://travis-ci.com/salemij93/spring-petclinic)
+5 pts Your Travis CI dashboard showing a successful first build.
+
+5 pts The section of the POM file showing the coordinates after you’ve changed them.
+
+5 pts Your Travis CI dashboard showing a successful build after your change of the group
+ID.
+
+5 pts The section of the POM file showing the coordinates after you’ve commented them
+out.
+
+5 pts Your Travis CI dashboard showing the unsuccessful build after the breaking change.
+
+5 pts Your Github repository with the readme.md file selected showing the build failed status after the Travis CI build fails.
+
+5 pts The section of the POM file showing the coordinates after you’ve fixed them.
+
+5 pts Your Travis CI dashboard showing the successful build after the breaking change hasbeen fixed.
+
+5 pts Your Github repository with the readme.md file selected showing the build successstatus after the Travis CI build has recovered.
