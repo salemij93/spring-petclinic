@@ -20,13 +20,15 @@
 
 5 pts Your Travis CI dashboard showing the unsuccessful build after the breaking change.
 
-![First Build](https://github.com/salemij93/spring-petclinic/blob/master/images/bad_build.png)
+![Bad Build](https://github.com/salemij93/spring-petclinic/blob/master/images/bad_build.png)
 
 5 pts Your Github repository with the readme.md file selected showing the build failed status after the Travis CI build fails.
 
-
+![Bad Build readme.md](https://github.com/salemij93/spring-petclinic/blob/master/images/readme_failed_build.png)
 
 5 pts The section of the POM file showing the coordinates after you’ve fixed them.
+
+
 
 5 pts Your Travis CI dashboard showing the successful build after the breaking change hasbeen fixed.
 
