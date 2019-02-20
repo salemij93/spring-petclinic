@@ -28,8 +28,16 @@
 
 5 pts The section of the POM file showing the coordinates after you’ve fixed them.
 
-
+![Bad Build](https://github.com/salemij93/spring-petclinic/blob/master/images/fixing_build.png)
 
 5 pts Your Travis CI dashboard showing the successful build after the breaking change hasbeen fixed.
 
+![Last Build](https://github.com/salemij93/spring-petclinic/blob/master/images/last_build.png)
+
+![All Build](https://github.com/salemij93/spring-petclinic/blob/master/images/all_builds.png)
+
 5 pts Your Github repository with the readme.md file selected showing the build successstatus after the Travis CI build has recovered.
+
+![Fixed Build](https://github.com/salemij93/spring-petclinic/blob/master/images/fixed_build.png)
+
+[![Build Status](https://travis-ci.com/salemij93/spring-petclinic.svg?branch=master)](https://travis-ci.com/salemij93/spring-petclinic)
