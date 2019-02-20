@@ -1,1 +1,1 @@
-#GitHub Account ![Fork](image.png)
+#GitHub Account ![Fork](https://github.com/salemij93/spring-petclinic/blob/master/github_account.png)
