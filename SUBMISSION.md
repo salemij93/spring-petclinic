@@ -1,4 +1,5 @@
 ## 5 pts Your Github account showing that is has been forked from the depaulcdm/springpetclinic repository.
+![Fork](https://github.com/salemij93/spring-petclinic/blob/master/images/first_build.png)
 
 5 pts Your Travis CI dashboard showing a successful first build.
 
